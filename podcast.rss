@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Ai Talks</title>
-        <itunes:title>Ai Talks</itunes:title>
+        <title>AI Talks</title>
+        <itunes:title>AI Talks</itunes:title>
         <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
         <link>https://github.com/ccz245/data-ai-talks-f4e9-3b2c-8d1a</link>
         <language>en-us</language>
@@ -14,7 +14,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep01_synthesis_context_engineering.mp3" length="14455465" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_01</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>Unified implementation guide for managing long-context, RAG, and multi-agent knowledge bases.</itunes:summary>
         </item>
         <item>
@@ -23,7 +24,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep02_synthesis_orchestration.mp3" length="12873071" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_02</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>Best-of-breed architectures for long-running, autonomous loops and agentic state machines.</itunes:summary>
         </item>
         <item>
@@ -32,7 +34,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep03_synthesis_coding_agents.mp3" length="14951060" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_03</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>Practical guide for building "Agent Factories" that automate app development and document writing.</itunes:summary>
         </item>
         <item>
@@ -41,7 +44,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep04_synthesis_evals.mp3" length="14347318" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_04</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>Implementing adversarial evaluation and automated testing for bank-grade AI production.</itunes:summary>
         </item>
         <item>
@@ -50,7 +54,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep05_synthesis_fintech.mp3" length="14310642" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_05</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>Commercially focused guide on applying agentic AI to treasury, risk, and regulatory compliance.</itunes:summary>
         </item>
         <item>
@@ -59,7 +64,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep06_synthesis_prompt_engineering.mp3" length="13685584" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_06</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>AI Playbook</itunes:summary>
         </item>
         <item>
@@ -68,7 +74,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep07_synthesis_observability.mp3" length="13344216" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_07</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>AI Playbook</itunes:summary>
         </item>
         <item>
@@ -77,7 +84,8 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep08_synthesis_memory.mp3" length="15672353" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_08</guid>
-            <itunes:author>Ai Talks</itunes:author>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
             <itunes:summary>AI Playbook</itunes:summary>
         </item>
     </channel>
