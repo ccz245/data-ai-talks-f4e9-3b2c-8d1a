@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Ai Talks - Startup Playbooks</title>
+        <link>https://github.com/ccz245/data-ai-talks-f4e9-3b2c-8d1a</link>
+        <language>en-us</language>
+        <itunes:author>ccz245</itunes:author>
+        
+        <item>
+            <title>Context Engineering Playbook</title>
+            <description>Unified implementation guide for managing long-context, RAG, and multi-agent knowledge bases.</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep01_synthesis_context_engineering.mp3" length="14455465" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_01</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>Unified implementation guide for managing long-context, RAG, and multi-agent knowledge bases.</itunes:summary>
+        </item>
+        <item>
+            <title>Orchestration Playbook</title>
+            <description>Best-of-breed architectures for long-running, autonomous loops and agentic state machines.</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep02_synthesis_orchestration.mp3" length="12873071" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_02</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>Best-of-breed architectures for long-running, autonomous loops and agentic state machines.</itunes:summary>
+        </item>
+        <item>
+            <title>Coding Agent Playbook</title>
+            <description>Practical guide for building "Agent Factories" that automate app development and document writing.</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep03_synthesis_coding_agents.mp3" length="14951060" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_03</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>Practical guide for building "Agent Factories" that automate app development and document writing.</itunes:summary>
+        </item>
+        <item>
+            <title>Evals &amp; Reliability Playbook</title>
+            <description>Implementing adversarial evaluation and automated testing for bank-grade AI production.</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep04_synthesis_evals.mp3" length="14347318" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_04</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>Implementing adversarial evaluation and automated testing for bank-grade AI production.</itunes:summary>
+        </item>
+        <item>
+            <title>Fintech AI Playbook</title>
+            <description>Commercially focused guide on applying agentic AI to treasury, risk, and regulatory compliance.</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep05_synthesis_fintech.mp3" length="14310642" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_05</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>Commercially focused guide on applying agentic AI to treasury, risk, and regulatory compliance.</itunes:summary>
+        </item>
+    </channel>
+</rss>
