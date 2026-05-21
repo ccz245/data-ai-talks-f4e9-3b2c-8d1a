@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>Ai Talks - Startup Playbooks</title>
+        <title>Ai Talks</title>
+        <itunes:title>Ai Talks</itunes:title>
+        <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.svg"/>
         <link>https://github.com/ccz245/data-ai-talks-f4e9-3b2c-8d1a</link>
         <language>en-us</language>
         <itunes:author>ccz245</itunes:author>
