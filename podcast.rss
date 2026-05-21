@@ -53,5 +53,32 @@
             <itunes:author>Ai Talks</itunes:author>
             <itunes:summary>Commercially focused guide on applying agentic AI to treasury, risk, and regulatory compliance.</itunes:summary>
         </item>
+        <item>
+            <title>ep06_synthesis_prompt_engineering</title>
+            <description>AI Playbook</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep06_synthesis_prompt_engineering.mp3" length="13685584" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_06</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>AI Playbook</itunes:summary>
+        </item>
+        <item>
+            <title>ep07_synthesis_observability</title>
+            <description>AI Playbook</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep07_synthesis_observability.mp3" length="13344216" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_07</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>AI Playbook</itunes:summary>
+        </item>
+        <item>
+            <title>ep08_synthesis_memory</title>
+            <description>AI Playbook</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep08_synthesis_memory.mp3" length="15672353" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_08</guid>
+            <itunes:author>Ai Talks</itunes:author>
+            <itunes:summary>AI Playbook</itunes:summary>
+        </item>
     </channel>
 </rss>
