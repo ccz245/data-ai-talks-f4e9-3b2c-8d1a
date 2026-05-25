@@ -59,34 +59,124 @@
             <itunes:summary>Commercially focused guide on applying agentic AI to treasury, risk, and regulatory compliance.</itunes:summary>
         </item>
         <item>
-            <title>ep06_synthesis_prompt_engineering</title>
-            <description>AI Playbook</description>
+            <title>Prompt Engineering Playbook</title>
+            <description>Modern prompt engineering patterns and techniques for production AI systems.</description>
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep06_synthesis_prompt_engineering.mp3" length="13685584" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_06</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>Modern prompt engineering patterns and techniques for production AI systems.</itunes:summary>
         </item>
         <item>
-            <title>ep07_synthesis_observability</title>
-            <description>AI Playbook</description>
+            <title>Observability Playbook</title>
+            <description>Monitoring, tracing, and debugging agentic AI systems in production.</description>
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep07_synthesis_observability.mp3" length="13344216" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_07</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>Monitoring, tracing, and debugging agentic AI systems in production.</itunes:summary>
         </item>
         <item>
-            <title>ep08_synthesis_memory</title>
-            <description>AI Playbook</description>
+            <title>Memory Playbook</title>
+            <description>Long-term memory architectures and knowledge management for persistent AI agents.</description>
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep08_synthesis_memory.mp3" length="15672353" type="audio/mpeg"/>
             <guid isPermaLink="false">ai-talks_08</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>Long-term memory architectures and knowledge management for persistent AI agents.</itunes:summary>
+        </item>
+        <item>
+            <title>Agents Playbook</title>
+            <description>Broad agentic AI patterns beyond coding — workflow automation, tiny teams, and general knowledge work.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep09_synthesis_agents.mp3" length="14410952" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_09</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Broad agentic AI patterns beyond coding — workflow automation, tiny teams, and general knowledge work.</itunes:summary>
+        </item>
+        <item>
+            <title>Voice AI Playbook</title>
+            <description>Building voice-native AI products: TTS, speech understanding, and voice agent architectures.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep10_synthesis_voice_ai.mp3" length="17337502" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_10</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Building voice-native AI products: TTS, speech understanding, and voice agent architectures.</itunes:summary>
+        </item>
+        <item>
+            <title>Computer Use Playbook</title>
+            <description>GUI agents, browser automation, and AI that operates software like a human.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep11_synthesis_computer_use.mp3" length="12386880" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_11</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>GUI agents, browser automation, and AI that operates software like a human.</itunes:summary>
+        </item>
+        <item>
+            <title>Embeddings Playbook</title>
+            <description>Vector embeddings, semantic search, and retrieval infrastructure for production AI.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep12_synthesis_embeddings.mp3" length="15862942" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_12</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Vector embeddings, semantic search, and retrieval infrastructure for production AI.</itunes:summary>
+        </item>
+        <item>
+            <title>Fine-Tuning Playbook</title>
+            <description>When and how to fine-tune LLMs: datasets, training strategies, and evaluation.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep13_synthesis_fine_tuning.mp3" length="13898743" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_13</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>When and how to fine-tune LLMs: datasets, training strategies, and evaluation.</itunes:summary>
+        </item>
+        <item>
+            <title>MCP Playbook</title>
+            <description>Model Context Protocol — building servers, clients, and agent tool ecosystems.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep14_synthesis_mcp.mp3" length="14310642" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_14</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Model Context Protocol — building servers, clients, and agent tool ecosystems.</itunes:summary>
+        </item>
+        <item>
+            <title>Open Source Playbook</title>
+            <description>Open-source LLMs, self-hosting strategies, and the commercial case for open models.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep16_synthesis_open_source.mp3" length="14000307" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_16</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Open-source LLMs, self-hosting strategies, and the commercial case for open models.</itunes:summary>
+        </item>
+        <item>
+            <title>RAG Playbook</title>
+            <description>Retrieval-augmented generation: chunking, indexing, re-ranking, and hybrid search.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep17_synthesis_rag.mp3" length="14680849" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_17</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Retrieval-augmented generation: chunking, indexing, re-ranking, and hybrid search.</itunes:summary>
+        </item>
+        <item>
+            <title>Multimodal Playbook</title>
+            <description>Multimodal AI: vision-language models, image generation, and media understanding agents.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep18_synthesis_multimodal.mp3" length="13878995" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_18</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Multimodal AI: vision-language models, image generation, and media understanding agents.</itunes:summary>
         </item>
     </channel>
 </rss>
