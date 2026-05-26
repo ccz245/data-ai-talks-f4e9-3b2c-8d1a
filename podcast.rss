@@ -149,6 +149,16 @@
             <itunes:summary>Model Context Protocol — building servers, clients, and agent tool ecosystems.</itunes:summary>
         </item>
         <item>
+            <title>Inference Playbook</title>
+            <description>Inference optimization: quantization, batching, edge deployment, and cost reduction.</description>
+            <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep15_synthesis_inference.mp3" length="15459821" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_15</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Inference optimization: quantization, batching, edge deployment, and cost reduction.</itunes:summary>
+        </item>
+        <item>
             <title>Open Source Playbook</title>
             <description>Open-source LLMs, self-hosting strategies, and the commercial case for open models.</description>
             <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
@@ -177,6 +187,56 @@
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
             <itunes:summary>Multimodal AI: vision-language models, image generation, and media understanding agents.</itunes:summary>
+        </item>
+        <item>
+            <title>Durable Agents</title>
+            <description>Deep dive into "Snapshot and Restore" vs. "Replay" models for long-running, stateful AI agents.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep19_durable_agents.mp3" length="11384092" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_19</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Deep dive into "Snapshot and Restore" vs. "Replay" models for long-running, stateful AI agents.</itunes:summary>
+        </item>
+        <item>
+            <title>Event-Sourced Harnesses</title>
+            <description>Building agent harnesses as pure, debuggable event streams with stream processors.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep20_event_sourced_harnesses.mp3" length="12566498" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_20</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Building agent harnesses as pure, debuggable event streams with stream processors.</itunes:summary>
+        </item>
+        <item>
+            <title>Continuous Compute</title>
+            <description>Why CI/CD is dead for agents and the rise of "Dark Factories" for autonomous code generation.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep21_continuous_compute.mp3" length="13916611" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_21</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Why CI/CD is dead for agents and the rise of "Dark Factories" for autonomous code generation.</itunes:summary>
+        </item>
+        <item>
+            <title>AI Incident Management</title>
+            <description>Fighting AI with AI: using analysis pipelines and downloadable context to debug complex systems.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep22_ai_incident_management.mp3" length="10651200" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_22</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Fighting AI with AI: using analysis pipelines and downloadable context to debug complex systems.</itunes:summary>
+        </item>
+        <item>
+            <title>Sovereign AI</title>
+            <description>Building AI under strict sovereignty constraints: data, model, and infrastructure control.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep23_sovereign_ai.mp3" length="13072751" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_23</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Building AI under strict sovereignty constraints: data, model, and infrastructure control.</itunes:summary>
         </item>
     </channel>
 </rss>
