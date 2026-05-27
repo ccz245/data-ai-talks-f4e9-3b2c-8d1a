@@ -238,5 +238,55 @@
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
             <itunes:summary>Building AI under strict sovereignty constraints: data, model, and infrastructure control.</itunes:summary>
         </item>
+        <item>
+            <title>Agent Harness Masterclass</title>
+            <description>Anthropic’s blueprint for building a robust "AI Layer" around coding agents for large codebases.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep24_anthropic_agent_harnesses.mp3" length="13263027" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_24</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Anthropic’s blueprint for building a robust "AI Layer" around coding agents for large codebases.</itunes:summary>
+        </item>
+        <item>
+            <title>Fine-Tuning Tiny LLMs</title>
+            <description>Achieving &gt;90% accuracy on-device with sub-1B parameter models using synthetic data.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep25_finetuning_tiny_llms.mp3" length="14299984" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_25</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Achieving &gt;90% accuracy on-device with sub-1B parameter models using synthetic data.</itunes:summary>
+        </item>
+        <item>
+            <title>Any-to-Any Agents</title>
+            <description>Building native multimodal agents that reason across text, image, and audio without cascaded pipelines.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep26_multimodal_native_agents.mp3" length="13181525" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_26</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Building native multimodal agents that reason across text, image, and audio without cascaded pipelines.</itunes:summary>
+        </item>
+        <item>
+            <title>Deploying Agents at Scale</title>
+            <description>Composite AI strategies for scaling deterministic and generative agents in regulated fintech environments.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep27_deploying_agents_at_scale.mp3" length="12655524" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_27</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Composite AI strategies for scaling deterministic and generative agents in regulated fintech environments.</itunes:summary>
+        </item>
+        <item>
+            <title>Agent Observability &amp; Skills</title>
+            <description>Using Langfuse and structured skills to overcome the "Stale Data Gap" in coding agents.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/audio/ep28_observability_and_skills.mp3" length="11866208" type="audio/mpeg"/>
+            <guid isPermaLink="false">ai-talks_28</guid>
+            <itunes:author>AI Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:summary>Using Langfuse and structured skills to overcome the "Stale Data Gap" in coding agents.</itunes:summary>
+        </item>
     </channel>
 </rss>
