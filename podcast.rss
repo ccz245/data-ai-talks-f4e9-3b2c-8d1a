@@ -3,6 +3,8 @@
     <channel>
         <title>AI Talks</title>
         <itunes:title>AI Talks</itunes:title>
+        <description>AI Talks</description>
+        <itunes:summary>AI Talks</itunes:summary>
         <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
         <link>https://github.com/ccz245/data-ai-talks-f4e9-3b2c-8d1a</link>
         <language>en-us</language>
@@ -16,6 +18,7 @@
             <guid isPermaLink="false">ai-talks_01</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:20:05</itunes:duration>
             <itunes:summary>Unified implementation guide for managing long-context, RAG, and multi-agent knowledge bases.</itunes:summary>
         </item>
         <item>
@@ -26,6 +29,7 @@
             <guid isPermaLink="false">ai-talks_02</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:17:53</itunes:duration>
             <itunes:summary>Best-of-breed architectures for long-running, autonomous loops and agentic state machines.</itunes:summary>
         </item>
         <item>
@@ -36,6 +40,7 @@
             <guid isPermaLink="false">ai-talks_03</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:20:46</itunes:duration>
             <itunes:summary>Practical guide for building "Agent Factories" that automate app development and document writing.</itunes:summary>
         </item>
         <item>
@@ -46,6 +51,7 @@
             <guid isPermaLink="false">ai-talks_04</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:56</itunes:duration>
             <itunes:summary>Implementing adversarial evaluation and automated testing for bank-grade AI production.</itunes:summary>
         </item>
         <item>
@@ -56,6 +62,7 @@
             <guid isPermaLink="false">ai-talks_05</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:52</itunes:duration>
             <itunes:summary>Commercially focused guide on applying agentic AI to treasury, risk, and regulatory compliance.</itunes:summary>
         </item>
         <item>
@@ -66,6 +73,7 @@
             <guid isPermaLink="false">ai-talks_06</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:00</itunes:duration>
             <itunes:summary>Modern prompt engineering patterns and techniques for production AI systems.</itunes:summary>
         </item>
         <item>
@@ -76,6 +84,7 @@
             <guid isPermaLink="false">ai-talks_07</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:18:32</itunes:duration>
             <itunes:summary>Monitoring, tracing, and debugging agentic AI systems in production.</itunes:summary>
         </item>
         <item>
@@ -86,6 +95,7 @@
             <guid isPermaLink="false">ai-talks_08</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:21:46</itunes:duration>
             <itunes:summary>Long-term memory architectures and knowledge management for persistent AI agents.</itunes:summary>
         </item>
         <item>
@@ -96,6 +106,7 @@
             <guid isPermaLink="false">ai-talks_09</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:20:01</itunes:duration>
             <itunes:summary>Broad agentic AI patterns beyond coding — workflow automation, tiny teams, and general knowledge work.</itunes:summary>
         </item>
         <item>
@@ -106,6 +117,7 @@
             <guid isPermaLink="false">ai-talks_10</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:24:05</itunes:duration>
             <itunes:summary>Building voice-native AI products: TTS, speech understanding, and voice agent architectures.</itunes:summary>
         </item>
         <item>
@@ -116,6 +128,7 @@
             <guid isPermaLink="false">ai-talks_11</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:17:12</itunes:duration>
             <itunes:summary>GUI agents, browser automation, and AI that operates software like a human.</itunes:summary>
         </item>
         <item>
@@ -126,6 +139,7 @@
             <guid isPermaLink="false">ai-talks_12</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:22:02</itunes:duration>
             <itunes:summary>Vector embeddings, semantic search, and retrieval infrastructure for production AI.</itunes:summary>
         </item>
         <item>
@@ -136,6 +150,7 @@
             <guid isPermaLink="false">ai-talks_13</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:18</itunes:duration>
             <itunes:summary>When and how to fine-tune LLMs: datasets, training strategies, and evaluation.</itunes:summary>
         </item>
         <item>
@@ -146,6 +161,7 @@
             <guid isPermaLink="false">ai-talks_14</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:52</itunes:duration>
             <itunes:summary>Model Context Protocol — building servers, clients, and agent tool ecosystems.</itunes:summary>
         </item>
         <item>
@@ -156,6 +172,7 @@
             <guid isPermaLink="false">ai-talks_15</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:21:28</itunes:duration>
             <itunes:summary>Inference optimization: quantization, batching, edge deployment, and cost reduction.</itunes:summary>
         </item>
         <item>
@@ -166,6 +183,7 @@
             <guid isPermaLink="false">ai-talks_16</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:27</itunes:duration>
             <itunes:summary>Open-source LLMs, self-hosting strategies, and the commercial case for open models.</itunes:summary>
         </item>
         <item>
@@ -176,6 +194,7 @@
             <guid isPermaLink="false">ai-talks_17</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:20:23</itunes:duration>
             <itunes:summary>Retrieval-augmented generation: chunking, indexing, re-ranking, and hybrid search.</itunes:summary>
         </item>
         <item>
@@ -186,6 +205,7 @@
             <guid isPermaLink="false">ai-talks_18</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:17</itunes:duration>
             <itunes:summary>Multimodal AI: vision-language models, image generation, and media understanding agents.</itunes:summary>
         </item>
         <item>
@@ -196,6 +216,7 @@
             <guid isPermaLink="false">ai-talks_19</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:15:49</itunes:duration>
             <itunes:summary>Deep dive into "Snapshot and Restore" vs. "Replay" models for long-running, stateful AI agents.</itunes:summary>
         </item>
         <item>
@@ -206,6 +227,7 @@
             <guid isPermaLink="false">ai-talks_20</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:17:27</itunes:duration>
             <itunes:summary>Building agent harnesses as pure, debuggable event streams with stream processors.</itunes:summary>
         </item>
         <item>
@@ -216,6 +238,7 @@
             <guid isPermaLink="false">ai-talks_21</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:20</itunes:duration>
             <itunes:summary>Why CI/CD is dead for agents and the rise of "Dark Factories" for autonomous code generation.</itunes:summary>
         </item>
         <item>
@@ -226,6 +249,7 @@
             <guid isPermaLink="false">ai-talks_22</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:14:48</itunes:duration>
             <itunes:summary>Fighting AI with AI: using analysis pipelines and downloadable context to debug complex systems.</itunes:summary>
         </item>
         <item>
@@ -236,6 +260,7 @@
             <guid isPermaLink="false">ai-talks_23</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:18:09</itunes:duration>
             <itunes:summary>Building AI under strict sovereignty constraints: data, model, and infrastructure control.</itunes:summary>
         </item>
         <item>
@@ -246,6 +271,7 @@
             <guid isPermaLink="false">ai-talks_24</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:18:25</itunes:duration>
             <itunes:summary>Anthropic’s blueprint for building a robust "AI Layer" around coding agents for large codebases.</itunes:summary>
         </item>
         <item>
@@ -256,6 +282,7 @@
             <guid isPermaLink="false">ai-talks_25</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:19:52</itunes:duration>
             <itunes:summary>Achieving &gt;90% accuracy on-device with sub-1B parameter models using synthetic data.</itunes:summary>
         </item>
         <item>
@@ -266,6 +293,7 @@
             <guid isPermaLink="false">ai-talks_26</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:18:18</itunes:duration>
             <itunes:summary>Building native multimodal agents that reason across text, image, and audio without cascaded pipelines.</itunes:summary>
         </item>
         <item>
@@ -276,6 +304,7 @@
             <guid isPermaLink="false">ai-talks_27</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:17:35</itunes:duration>
             <itunes:summary>Composite AI strategies for scaling deterministic and generative agents in regulated fintech environments.</itunes:summary>
         </item>
         <item>
@@ -286,6 +315,7 @@
             <guid isPermaLink="false">ai-talks_28</guid>
             <itunes:author>AI Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-ai-talks-f4e9-3b2c-8d1a/cover.png"/>
+            <itunes:duration>00:16:29</itunes:duration>
             <itunes:summary>Using Langfuse and structured skills to overcome the "Stale Data Gap" in coding agents.</itunes:summary>
         </item>
     </channel>
